@@ -2,7 +2,7 @@ import React from 'react'
 
 function App() {
   return (
-    <p>Welcome To  Marvel Wokers</p>
+    <h1>Welcome To  Marvel Wokers</h1>
   )
 }
 
